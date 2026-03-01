@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "component": "blocks/content/faq/Faq001",
+    "section": "home/faq001"
+  },
+  "data": {
+    "sectionLabel": "05 / FAQ's",
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What is AI biotechnology in agriculture and how does it function?",
+        "answer": "Machine learning and data analytics transform agriculture by providing insights into crop health. Explore gene-editing for pest-resistant crops. Discover how these advancements support sustainability.\n\n"
+      },
+      {
+        "question": "How quickly can I implement AI biotechnology solutions in agriculture?",
+        "answer": "Implementation timelines vary depending on farm size, existing infrastructure, and solution complexity. Basic AI-driven monitoring tools can be integrated within weeks, while full-scale biotechnology systems involving data modeling and genetic optimization may take several months. Pilot programs often help accelerate adoption and ensure smoother scalability.\n\n"
+      },
+      {
+        "question": "What sets AI biotechnology in agriculture apart from traditional agricultural technologies?",
+        "answer": "Traditional agricultural technologies focus on mechanization and physical efficiency. In contrast, AI biotechnology integrates intelligent data systems and biological innovation — enabling predictive insights, adaptive responses to environmental conditions, and genetic improvements that enhance resilience and yield. It’s not just automation; it’s adaptive intelligence.\n\n"
+      }
+    ]
+  }
+}

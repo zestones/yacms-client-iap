@@ -66,6 +66,7 @@
     "./about001.json",
     "./features001.json",
     "./features002.json",
+    "./faq001.json",
     "../_shared/footer.json"
   ]
 }
