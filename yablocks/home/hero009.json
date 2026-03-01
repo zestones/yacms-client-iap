@@ -8,15 +8,15 @@
       "src": "/images/hero-image.webp",
       "alt": "Sample text"
     },
-    "title": "Titre principal",
-    "subtitle": "Sous titre",
+    "title": "Revolutionizing Agriculture with Biotechnology",
+    "subtitle": "Explore how Verdentix is transforming farming with cutting-edge biotech solutions that increase crop yields, reduce environmental impact, and ensure sustainable agriculture.\n\n",
     "cta": {
       "primary": {
-        "text": "Sample text",
+        "text": "Explore Our Solutions",
         "link": "https://example.com"
       },
       "secondary": {
-        "text": "Sample text",
+        "text": "Learn More",
         "link": "https://example.com"
       }
     },
