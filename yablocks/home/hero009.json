@@ -35,9 +35,9 @@
       }
     ],
     "card": {
-      "badge": "Sample text",
-      "stat": "Sample text",
-      "statDescription": "This is a sample description that demonstrates the content structure.",
+      "badge": "AI Solution",
+      "stat": "500+",
+      "statDescription": "Biotechnology has transformed agriculture with higher yields",
       "image": {
         "src": "/images/asset-10mpq3.jpg",
         "alt": "Sample text"
