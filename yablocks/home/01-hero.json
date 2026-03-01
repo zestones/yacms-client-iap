@@ -5,10 +5,10 @@
   },
   "data": {
     "label": "Professional • Reliable • Innovative",
-    "title": "Transforming Ideas Into Reality",
+    "title": "Industrial Analytics",
     "subtitle": "Expert solutions and services designed to help your business grow. We deliver quality results that exceed expectations.",
     "backgroundImage": {
-      "src": "/images/1162946.jpg",
+      "src": "/images/iap-dashboard.png",
       "alt": "Hero Background Image"
     },
     "cta": {
@@ -40,6 +40,7 @@
         "value": "98%",
         "label": "satisfaction rate"
       }
-    ]
+    ],
+    "titleHighlight": "Pipeline"
   }
 }
