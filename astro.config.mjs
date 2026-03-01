@@ -8,8 +8,7 @@ import sitemap from '@astrojs/sitemap';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
-    site: 'https://zestones.github.io',
-    base: '/yacms-client-template',
+    site: 'https://iap.software',
     integrations: [react(), sitemap()],
     vite: {
         plugins: [tailwindcss()],

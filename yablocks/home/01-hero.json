@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/GlassHeroCentered",
+    "component": "blocks/layout/hero/Hero002",
     "section": "home/hero"
   },
   "data": {
