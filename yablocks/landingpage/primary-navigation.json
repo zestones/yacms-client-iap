@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "component": "blocks/layout/navigation/PrimaryNavigation",
+    "section": "landingpage/primary-navigation"
+  },
+  "data": {
+    "logo": {
+      "text": "Thermosolis"
+    },
+    "links": [
+      {
+        "label": "Accueil",
+        "href": ""
+      },
+      {
+        "label": "Services",
+        "href": ""
+      },
+      {
+        "label": "A propos",
+        "href": ""
+      },
+      {
+        "label": "Realisation",
+        "href": ""
+      },
+      {
+        "label": "Contact",
+        "href": ""
+      }
+    ],
+    "cta": {
+      "text": "Contactez nous"
+    }
+  }
+}

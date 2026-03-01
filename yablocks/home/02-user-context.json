@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "component": "blocks/content/user-context/UserContext01",
+    "section": "home/user-context"
+  },
+  "data": {
+    "title": "Facing Challenges in Your Business?",
+    "subtitle": "Every business faces obstacles. We understand the common pain points and have solutions ready.",
+    "closingStatement": "These challenges are more common than you think — and they all have solutions.",
+    "contexts": [
+      {
+        "type": "urgent",
+        "heading": "Immediate Needs",
+        "situations": [
+          "Your current solution isn't working",
+          "Urgent deadline approaching",
+          "Technical issues affecting operations",
+          "Need expert advice quickly"
+        ]
+      },
+      {
+        "type": "improvement",
+        "heading": "Growth Opportunities",
+        "situations": [
+          "Looking to scale your business",
+          "Want to improve efficiency",
+          "Outdated systems need upgrading",
+          "Ready to innovate and modernize"
+        ]
+      }
+    ],
+    "eyebrow": "Does this sound familiar?",
+    "urgentLabel": "Urgent Situation",
+    "improvementLabel": "Room for Improvement"
+  }
+}

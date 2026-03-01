@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero001",
+    "section": "landingpage/hero001"
+  },
+  "data": {
+    "badge": "Studio Web",
+    "title": "Zestones Studio",
+    "titleHighlight": "Prêt en 2 semaines",
+    "subtitle": "Site vitrine rapides, moderne et sans maintenance",
+    "cta": {
+      "primary": {
+        "text": "Demandez un devis",
+        "link": ""
+      },
+      "secondary": {
+        "text": "Voir Nos realisation",
+        "link": ""
+      }
+    },
+    "trustBadges": [
+      {
+        "icon": "zap",
+        "text": "Ultra rapide"
+      },
+      {
+        "icon": "target",
+        "text": "Résultat personalisé"
+      },
+      {
+        "icon": "shield",
+        "text": "Solutoin robuste"
+      }
+    ],
+    "metrics": [],
+    "mockupImage": {
+      "src": "/images/wallpaperflare.com_wallpaper (1).jpg",
+      "alt": ""
+    }
+  }
+}

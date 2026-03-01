@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/stats/StatsBar001",
+    "section": "landingpage/stats-bar001"
+  },
+  "data": {
+    "stats": [
+      {
+        "value": "23",
+        "label": "Ans d'expérience"
+      },
+      {
+        "value": "150",
+        "label": "Projets livrés",
+        "suffix": "+"
+      },
+      {
+        "value": "98",
+        "label": "Clients satisfaits",
+        "suffix": "%"
+      },
+      {
+        "value": "48",
+        "label": "Heures de support",
+        "suffix": "h"
+      }
+    ]
+  }
+}

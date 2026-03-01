@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "component": "blocks/content/process/ProcessStep001",
+    "section": "landingpage/process-step001"
+  },
+  "data": {
+    "badge": "Comment ça marche",
+    "title": "Votre site en 4 étapes simples",
+    "subtitle": "Un processus clair et efficace. De la première discussion à la mise en ligne, on vous accompagne.",
+    "steps": [
+      {
+        "title": "Échange",
+        "description": "On discute de votre projet, vos objectifs et votre vision. On analyse vos besoins pour vous proposer la solution idéale.",
+        "icon": "message-circle",
+        "duration": "30 min",
+        "highlight": "Gratuit et sans engagement"
+      },
+      {
+        "title": "Proposition",
+        "description": "Vous recevez une maquette personnalisée et un devis détaillé. Pas de surprise, tout est transparent.",
+        "icon": "file-text",
+        "duration": "48h",
+        "highlight": "Maquette offerte"
+      },
+      {
+        "title": "Création",
+        "description": "Notre équipe développe votre site avec notre technologie YACMS. Vous suivez l'avancement en temps réel.",
+        "icon": "code",
+        "duration": "2 semaines",
+        "highlight": "Suivi en temps réel"
+      },
+      {
+        "title": "Lancement",
+        "description": "Votre site est en ligne ! On s'occupe de tout : hébergement, domaine, SSL. Vous n'avez rien à faire.",
+        "icon": "rocket",
+        "duration": "Jour J",
+        "highlight": "Clé en main"
+      }
+    ],
+    "cta": {
+      "text": "Démarrer mon projet",
+      "link": "/contact"
+    },
+    "bottomText": "Prêt à transformer votre présence en ligne ?"
+  }
+}

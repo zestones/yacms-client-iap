@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/conversion/cta/CTABanner",
+    "section": "home/cta"
+  },
+  "data": {
+    "eyebrow": "Ready to Get Started?",
+    "title": "Request Your Free Consultation",
+    "subtitle": "Response within 24 hours. No obligation.",
+    "primaryCTA": {
+      "text": "Get a Quote",
+      "href": "/contact",
+      "variant": "primary"
+    },
+    "secondaryCTA": {
+      "text": "(555) 123-4567",
+      "href": "tel:+15551234567",
+      "variant": "outline"
+    },
+    "features": [
+      "Free consultation",
+      "No obligation",
+      "24-hour response"
+    ],
+    "layout": "split"
+  }
+}

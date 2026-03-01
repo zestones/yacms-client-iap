@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "component": "blocks/conversion/contact/Contact01",
+    "section": "contact-us/contact01"
+  },
+  "data": {
+    "formTitle": "Contact us",
+    "formLabels": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "message": "Message",
+      "privacyPrefix": "You agree to your friendly",
+      "privacyLink": "Privacy Policy",
+      "privacyHref": "#",
+      "submit": "Send Message"
+    },
+    "formPlaceholders": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "someone@example.com",
+      "message": "Something about your request."
+    },
+    "infoTitle": "Get in Touch",
+    "infoDescription": "You need more information? Check what other persons are saying about our product. They are very happy with their purchase.",
+    "contactOptions": [
+      {
+        "icon": "phone",
+        "info": "+1(424) 535 3523",
+        "href": "tel:+14245353523"
+      },
+      {
+        "icon": "mail",
+        "info": "hello@mail.com",
+        "href": "mailto:hello@mail.com"
+      },
+      {
+        "icon": "ticket",
+        "info": "Open Support Ticket",
+        "href": "#support"
+      }
+    ]
+  }
+}

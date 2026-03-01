@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "component": "blocks/layout/navigation/PrimaryNavigation",
+    "section": "about/primary-navigation"
+  },
+  "data": {
+    "logo": {
+      "text": "Logo",
+      "href": "",
+      "image": ""
+    },
+    "links": [
+      {
+        "label": "Home",
+        "href": ""
+      },
+      {
+        "label": "Service",
+        "href": ""
+      },
+      {
+        "label": "About",
+        "href": ""
+      },
+      {
+        "label": "Portfolio",
+        "href": ""
+      },
+      {
+        "label": "Contact",
+        "href": ""
+      }
+    ],
+    "cta": {
+      "text": "Contactez Nous",
+      "href": ""
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "component": "blocks/content/problem-solution/ProblemSolution001",
+    "section": "landingpage/problem-solution001"
+  },
+  "data": {
+    "badge": "Pourquoi nous choisir",
+    "problem": {
+      "title": "Sans Zestones",
+      "subtitle": "Les galères du web classique",
+      "items": [
+        {
+          "title": "Sites lents et mal optimisés",
+          "description": "Des temps de chargement qui font fuir vos visiteurs et plombent votre référencement."
+        },
+        {
+          "title": "Maintenance interminable",
+          "description": "Mises à jour, bugs, failles de sécurité... Vous passez plus de temps à maintenir qu'à développer votre activité."
+        },
+        {
+          "title": "SEO inexistant",
+          "description": "Votre site est invisible sur Google. Vos concurrents raflent tous les clients."
+        },
+        {
+          "title": "Délais à rallonge",
+          "description": "Des mois d'attente pour un simple site vitrine. Votre projet prend la poussière."
+        }
+      ]
+    },
+    "solution": {
+      "title": "Avec Zestones",
+      "subtitle": "La tranquillité d'esprit",
+      "items": [
+        {
+          "title": "Performance garantie 95+",
+          "description": "Sites ultra-rapides optimisés pour le Core Web Vitals. Vos visiteurs restent, Google vous aime."
+        },
+        {
+          "title": "Zéro maintenance",
+          "description": "Notre technologie YACMS élimine les mises à jour et les failles. Concentrez-vous sur votre business."
+        },
+        {
+          "title": "SEO-ready dès le départ",
+          "description": "Structure optimisée, meta tags, sitemap, schema.org... Tout est inclus pour ranker."
+        },
+        {
+          "title": "Livré en 2 semaines",
+          "description": "Grâce à notre workflow optimisé, votre site est en ligne rapidement. Pas de surprise."
+        }
+      ]
+    },
+    "cta": {
+      "text": "Passer à Zestones",
+      "link": "/contact"
+    }
+  }
+}

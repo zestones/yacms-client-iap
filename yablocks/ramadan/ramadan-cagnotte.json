@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/conversion/countdown/RamadanCagnotte",
+    "section": "ramadan/ramadan-cagnotte"
+  },
+  "data": {
+    "title": "Cagnotte Ramadan 2026",
+    "subtitle": "Ensemble, bâtissons une maison d'Allah pour les générations futures. Chaque pierre posée est une sadaqah jariyah qui perdurera.",
+    "endDate": "2026-03-19",
+    "currentAmount": 100000,
+    "goalAmount": 400000,
+    "cta": {
+      "text": "Contribuer à la construction",
+      "link": "https://www.helloasso.com/associations/association-cultuelle-de-montchovet-et-de-saint-etienne/collectes/acquisition-d-un-terrain-et-construction-d-une-mosquee"
+    },
+    "backgroundImage": {
+      "src": "/images/photo-1591604129939-f1efa4d9f7fa.jpg",
+      "alt": "Vue majestueuse d'une mosquée avec ses minarets dorés au coucher du soleil"
+    },
+    "showDonorsCount": true,
+    "donorsCount": 150,
+    "motivationalMessage": "« Celui qui construit une mosquée pour Allah, \nAllah lui construit une demeure au paradis » - sahih Muslim n°533",
+    "logo": {
+      "src": "/logos/Logo.png",
+      "alt": ""
+    },
+    "eyebrow": "Ramadan 2026",
+    "desktopLayout": "countdown-right"
+  }
+}

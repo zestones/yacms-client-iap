@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/credentials/TrustCredentials",
+    "section": "home/trust"
+  },
+  "data": {
+    "eyebrow": "Why Choose Us",
+    "title": "Trusted by Businesses Since 2015",
+    "subtitle": "Certified professionals delivering excellence across all projects. Industry-recognized certifications ensuring quality work that meets the highest standards.",
+    "stats": [
+      {
+        "value": "10",
+        "suffix": "+",
+        "label": "years of experience"
+      },
+      {
+        "value": "500",
+        "suffix": "+",
+        "label": "satisfied clients"
+      },
+      {
+        "value": "2015",
+        "suffix": "",
+        "label": "year established"
+      },
+      {
+        "value": "24",
+        "suffix": "hrs",
+        "label": "response time"
+      }
+    ],
+    "certifications": [
+      {
+        "icon": "award",
+        "name": "Industry Certified",
+        "description": "Recognized industry standards certification"
+      },
+      {
+        "icon": "shield-check",
+        "name": "Quality Assured",
+        "description": "ISO quality management certified"
+      },
+      {
+        "icon": "certificate",
+        "name": "Professional Member",
+        "description": "Member of professional associations"
+      },
+      {
+        "icon": "zap",
+        "name": "Technology Partner",
+        "description": "Certified technology implementation partner"
+      }
+    ],
+    "trustLogos": [
+      {
+        "src": "/logos/certification-1.png",
+        "alt": "Certification 1 Logo"
+      },
+      {
+        "src": "/logos/certification-2.png",
+        "alt": "Certification 2 Logo"
+      },
+      {
+        "src": "/logos/certification-3.png",
+        "alt": "Certification 3 Logo"
+      },
+      {
+        "src": "/logos/certification-4.png",
+        "alt": "Certification 4 Logo"
+      }
+    ],
+    "trustLogosTitle": "Our Professional Certifications"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "component": "blocks/content/proposition/ValueProposition",
+    "section": "home/value-proposition"
+  },
+  "data": {
+    "eyebrow": "How It Works",
+    "title": "From Consultation to Delivery in 4 Simple Steps",
+    "subtitle": "No complexity, no surprises. We identify your needs, present options, and you decide how to proceed.",
+    "steps": [
+      {
+        "icon": "phone",
+        "title": "Initial Contact",
+        "description": "Reach out to discuss your project. We'll assess your needs and provide initial guidance."
+      },
+      {
+        "icon": "search",
+        "title": "Discovery & Analysis",
+        "description": "We conduct a thorough analysis of your requirements and challenges to create the perfect solution."
+      },
+      {
+        "icon": "clipboard",
+        "title": "Proposal & Planning",
+        "description": "Receive a detailed proposal with transparent pricing and clear timelines. No hidden costs."
+      },
+      {
+        "icon": "wrench",
+        "title": "Implementation",
+        "description": "Once approved, we begin work immediately. Fast execution with regular progress updates."
+      }
+    ],
+    "outcome": {
+      "title": "Your Goals Achieved, Hassle-Free",
+      "points": [
+        "Dedicated project manager",
+        "Fixed pricing guarantee",
+        "Comprehensive warranty included"
+      ]
+    },
+    "proof": {
+      "stat": "500+",
+      "label": "successful projects delivered"
+    },
+    "outcomeLabel": "Results"
+  }
+}

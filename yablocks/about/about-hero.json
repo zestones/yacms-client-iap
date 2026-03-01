@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/AboutHero",
+    "section": "about/about-hero"
+  },
+  "data": {
+    "eyebrow": "A propos",
+    "title": "Aider les entreprise a reussir",
+    "subtitle": "Une entreprise famillial au service de votre confort",
+    "image": {
+      "src": "/images/wallpaperflare.com_wallpaper (1).jpg",
+      "alt": "Equipe de travail"
+    },
+    "cta": {
+      "text": "Decouvrir notre Histoire",
+      "link": "#story"
+    },
+    "layout": "imageLeft"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "component": "blocks/content/about/AboutStory",
+    "section": "about/about-story"
+  },
+  "data": {
+    "eyebrow": "Notre Histoire",
+    "title": "Une passion devenue expertise",
+    "introduction": "Depuis plus de 20 ans nous accompagnons nos clients ",
+    "story": {
+      "image": {
+        "src": "/images/Code Geass.jpg",
+        "alt": ""
+      },
+      "paragraphs": [
+        "Lorem ipsum reletum fata senerolLorem ipsum reletum fata senerolLorem ipsum reletum fata senerolLorem ipsum reletum fata senerolLorem ipsum reletum fata senerolLorem ipsum reletum fata senerolLorem ipsum reletum fata senerolLorem ipsum reletum fata senerolLorem ipsum reletum fata senerolLorem ipsum reletum fata senerolLorem ipsum reletum fata senerolLorem ipsum reletum fata senerolLorem ipsum reletum fata senerolLorem ipsum reletum fata senerolLorem ipsum reletum fata senerol"
+      ]
+    },
+    "quote": {
+      "text": "Anticipation",
+      "author": "Abdelhak Benguezzou",
+      "role": "Fondateur et general",
+      "image": {
+        "src": "/images/AkiraSatoInterrupteur .png",
+        "alt": ""
+      }
+    },
+    "milestones": [
+      {
+        "year": "2005",
+        "title": "Création de l'entreoprise ",
+        "description": "Ouverture du premier atelier"
+      },
+      {
+        "year": "2013",
+        "title": "Extermination"
+      },
+      {
+        "year": "2020",
+        "title": "Anhiliation"
+      },
+      {
+        "year": "2025",
+        "title": "Neuille"
+      }
+    ],
+    "layout": "imageLeft"
+  }
+}

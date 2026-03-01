@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "component": "blocks/content/services/OfferCards001",
+    "section": "landingpage/offer-cards001"
+  },
+  "data": {
+    "badge": "Nos offres",
+    "title": "Des tarifs simples et transparents",
+    "subtitle": "Choisissez l'offre adaptée à vos besoins. Tous nos sites sont livrés clé en main, optimisés SEO et sans frais cachés.",
+    "offers": [
+      {
+        "name": "Starter",
+        "description": "Idéal pour les indépendants et petites structures",
+        "price": {
+          "amount": "990",
+          "prefix": "À partir de",
+          "suffix": "€ HT"
+        },
+        "features": [
+          {
+            "text": "Site vitrine jusqu'à 5 pages",
+            "included": true
+          },
+          {
+            "text": "Design responsive",
+            "included": true
+          },
+          {
+            "text": "Optimisation SEO de base",
+            "included": true
+          },
+          {
+            "text": "Formulaire de contact",
+            "included": true
+          },
+          {
+            "text": "Livraison sous 2 semaines",
+            "included": true
+          },
+          {
+            "text": "Modifications illimitées",
+            "included": false
+          },
+          {
+            "text": "Support prioritaire",
+            "included": false
+          }
+        ],
+        "cta": {
+          "text": "Choisir Starter",
+          "link": "/contact?offer=starter"
+        },
+        "badge": "",
+        "highlighted": false
+      },
+      {
+        "name": "Business",
+        "description": "Pour les entreprises qui veulent se démarquer",
+        "price": {
+          "amount": "1 990",
+          "prefix": "À partir de",
+          "suffix": "€ HT"
+        },
+        "features": [
+          {
+            "text": "Site vitrine jusqu'à 10 pages",
+            "included": true
+          },
+          {
+            "text": "Design responsive premium",
+            "included": true
+          },
+          {
+            "text": "Optimisation SEO avancée",
+            "included": true
+          },
+          {
+            "text": "Formulaires personnalisés",
+            "included": true
+          },
+          {
+            "text": "Livraison sous 2 semaines",
+            "included": true
+          },
+          {
+            "text": "2 sessions de modifications",
+            "included": true
+          },
+          {
+            "text": "Support prioritaire",
+            "included": false
+          }
+        ],
+        "cta": {
+          "text": "Choisir Business",
+          "link": ""
+        },
+        "badge": "Populaire",
+        "highlighted": true
+      },
+      {
+        "name": "Premium",
+        "description": "Solution complète et sur-mesure",
+        "price": {
+          "amount": "3 490",
+          "prefix": "À partir de",
+          "suffix": "€ HT"
+        },
+        "features": [
+          {
+            "text": "Site vitrine pages illimitées",
+            "included": true
+          },
+          {
+            "text": "Design 100% sur-mesure",
+            "included": true
+          },
+          {
+            "text": "Stratégie SEO complète",
+            "included": true
+          },
+          {
+            "text": "Fonctionnalités avancées",
+            "included": true
+          },
+          {
+            "text": "Livraison sous 3 semaines",
+            "included": true
+          },
+          {
+            "text": "Modifications illimitées",
+            "included": true
+          },
+          {
+            "text": "Support prioritaire 7j/7",
+            "included": true
+          }
+        ],
+        "cta": {
+          "text": "Choisir Premium",
+          "link": "/contact?offer=premium"
+        },
+        "badge": "Complet",
+        "highlighted": false
+      }
+    ],
+    "trustText": "✓ Sans engagement · ✓ Paiement sécurisé · ✓ Devis gratuit sous 24h"
+  }
+}

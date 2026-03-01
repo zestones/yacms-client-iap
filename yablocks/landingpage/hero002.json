@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero002",
+    "section": "landingpage/hero002"
+  },
+  "data": {
+    "badge": "Depuis 2002",
+    "title": "Votre artisan de confiance",
+    "titleHighlight": "a Saint Etienne",
+    "subtitle": "Découvrez qui nous sommes",
+    "backgroundImage": {
+      "src": "/images/tanjiro-kamado-3840x2160-23027.jpg",
+      "alt": ""
+    },
+    "cta": {
+      "primary": {
+        "text": "Notre  Histoire",
+        "link": ""
+      },
+      "secondary": {
+        "text": "Notre équipe",
+        "link": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "Your Business Name - Professional Services & Solutions",
+    "description": "Discover our professional services and solutions. Expert team providing quality results. Contact us today for a free consultation.",
+    "keywords": [
+      "professional services",
+      "business solutions",
+      "expert consultation",
+      "quality services",
+      "trusted provider",
+      "local business"
+    ],
+    "author": "Your Business Name",
+    "canonical": "https://yourbusiness.com/",
+    "locale": "en_US",
+    "robots": "index, follow",
+    "og": {
+      "type": "website",
+      "image": "/images/og-home.jpg",
+      "imageAlt": "Your Business Name - Professional Services"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "Your Business Name",
+      "logo": "/logos/logo.png",
+      "address": {
+        "street": "123 Main Street",
+        "city": "Your City",
+        "postalCode": "12345",
+        "region": "Your State",
+        "country": "US"
+      },
+      "geo": {
+        "latitude": 40.7128,
+        "longitude": -74.006
+      },
+      "phone": "+15551234567",
+      "email": "contact@yourbusiness.com",
+      "priceRange": "$$",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "17:00"
+        }
+      ],
+      "serviceArea": {
+        "radius": 50000
+      },
+      "rating": {
+        "value": 4.8,
+        "count": 150
+      }
+    }
+  },
+  "theme": "template-default",
+  "blocks": [
+    "../_shared/navigation.json",
+    "01-hero.json",
+    "02-user-context.json",
+    "03-value-proposition.json",
+    "04-services.json",
+    "05-social-proof.json",
+    "06-conversion.json",
+    "../_shared/footer.json"
+  ]
+}

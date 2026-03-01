@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "component": "blocks/content/timeline/Timeline001",
+    "section": "landingpage/timeline001"
+  },
+  "data": {
+    "badge": "Parcours et valeur",
+    "title": "Plus de 20 ans d'experience",
+    "subtitle": "De l’artisanat individuel a une entreprise commune",
+    "items": [
+      {
+        "year": "2001",
+        "title": "Commencement de l'entreprenariat",
+        "description": "L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né ",
+        "image": {
+          "src": "/images/1162946.jpg",
+          "alt": ""
+        },
+        "icon": "users",
+        "highlighted": false
+      },
+      {
+        "year": "2002",
+        "title": "Creation de l'entreprise ",
+        "description": "L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né L'histoire commence en 2014 losque les enfant sont né ",
+        "image": {
+          "src": "/images/photo-1591604129939-f1efa4d9f7fa.jpg",
+          "alt": ""
+        },
+        "icon": "heart",
+        "highlighted": false
+      }
+    ]
+  }
+}

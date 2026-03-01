@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "title": "landingpage",
+    "description": "",
+    "keywords": []
+  },
+  "theme": "light",
+  "blocks": [
+    "./hero002.json",
+    "./timeline001.json",
+    "./stats-bar001.json",
+    "./certification001.json",
+    "./primary-navigation.json"
+  ]
+}

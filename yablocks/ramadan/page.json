@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "ramadan",
+    "description": "",
+    "keywords": []
+  },
+  "theme": "elegant",
+  "blocks": [
+    "./ramadan-cagnotte.json"
+  ]
+}
