@@ -25,7 +25,11 @@
       },
       {
         "title": "Stockage intelligent",
-        "description": "Architecture événementielle optimisée : 8h de production = 2 enregistrements, pas 28 800. Base TimescaleDB standard — n'importe quel outil BI ou script peut interroger vos données en SQL."
+        "description": "Architecture événementielle optimisée : 8h de production = 2 enregistrements, pas 28 800. Base TimescaleDB standard — n'importe quel outil BI ou script peut interroger vos données en SQL.",
+        "image": {
+          "src": "/images/263b3984-ad33-4047-93ea-359b9f5d2a4e.png",
+          "alt": ""
+        }
       },
       {
         "title": "Analyse et dashboards",
