@@ -1,5 +1,7 @@
 {
-  "images": [],
+  "images": [
+    "/images/iap-dashboard.png"
+  ],
   "logos": [
     "/logos/favicon.svg",
     "/logos/logo.png"
