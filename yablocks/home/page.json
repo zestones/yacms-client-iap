@@ -20,7 +20,7 @@
     "robots": "index, follow",
     "og": {
       "type": "website",
-      "image": "/images/og-home.jpg",
+      "image": "/og-home.jpg",
       "imageAlt": "IAP — Industrial Analytics Pipeline"
     },
     "structuredData": {
