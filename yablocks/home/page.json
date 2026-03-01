@@ -67,6 +67,7 @@
     "./features001.json",
     "./features002.json",
     "./faq001.json",
+    "./cta001.json",
     "../_shared/footer.json"
   ]
 }

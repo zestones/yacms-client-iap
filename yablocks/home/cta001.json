@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta001",
+    "section": "home/cta001"
+  },
+  "data": {
+    "testimonial": {
+      "quote": "\"Agriculture has been revolutionized by biotechnology, leading to healthier plants and increased yields, which supports sustainable food production for a growing population.\"",
+      "avatar": {
+        "src": "/images/testimonial-avatar.webp",
+        "alt": "Sample text"
+      },
+      "authorName": "Alexandra Smith",
+      "authorRole": "Founder of Smith Farm Technology"
+    },
+    "sectionLabel": "06 / Contact Us",
+    "heroBgImage": {
+      "src": "/images/solution-4.webp",
+      "alt": "Sample text"
+    },
+    "stat": {
+      "value": "15K+",
+      "label": "Success Farmer Achieved"
+    },
+    "avatars": [
+      {
+        "src": "/images/avatar-4.webp",
+        "alt": "Sample text"
+      },
+      {
+        "src": "/images/avatar-1.webp",
+        "alt": "Sample text"
+      },
+      {
+        "src": "/images/avatar-3.webp",
+        "alt": "Sample text"
+      }
+    ],
+    "featuredPerson": {
+      "avatar": {
+        "src": "/images/avatar-2.webp",
+        "alt": "Sample text"
+      },
+      "name": "Giana Lubin",
+      "company": "Lubin Farm Corp"
+    },
+    "ctaTitle": "Get in touch with Verdentix",
+    "primaryCta": {
+      "text": "Learn More",
+      "link": "https://example.com"
+    },
+    "secondaryCta": {
+      "text": "Schedule a demo",
+      "link": "https://example.com"
+    },
+    "ctaSubtitle": "Contact us for any consultation or consideration"
+  }
+}
