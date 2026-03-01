@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "component": "blocks/layout/navigation/Navigation002",
+    "section": "home/navigation002"
+  },
+  "data": {
+    "logo": {
+      "image": "/logos/AlWiffaq.png",
+      "text": "Sample text",
+      "href": "/"
+    },
+    "links": [
+      {
+        "label": "Sample Label",
+        "href": "https://example.com"
+      },
+      {
+        "label": "Sample Label",
+        "href": "https://example.com"
+      },
+      {
+        "label": "Sample Label",
+        "href": "https://example.com"
+      }
+    ],
+    "cta": {
+      "text": "Sample text",
+      "href": "https://example.com"
+    }
+  }
+}
