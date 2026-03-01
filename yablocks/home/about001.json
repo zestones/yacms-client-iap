@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "component": "blocks/layout/about/About001",
+    "section": "home/about001"
+  },
+  "data": {
+    "sectionLabel": "01 / About Us",
+    "title": "Powering the Future of Sustainable Agriculture",
+    "subtitle": "Helping farmers grow more with less -- through biotech and precision intellegence\n\n",
+    "stats": {
+      "tags": [
+        {
+          "icon": "star",
+          "label": "Sample Label"
+        },
+        {
+          "icon": "star",
+          "label": "Sample Label"
+        },
+        {
+          "icon": "star",
+          "label": "Sample Label"
+        }
+      ],
+      "items": [
+        {
+          "value": "50+",
+          "label": "Researches"
+        },
+        {
+          "value": "50K",
+          "label": "Hectares"
+        },
+        {
+          "value": "20K",
+          "label": "Farmers"
+        }
+      ],
+      "quote": "Verdentix offers sustainable solutions via biotechnology. We empower farmers to boost productivity and impact.\n\n"
+    },
+    "valuesTitle": "Our Values",
+    "values": [
+      {
+        "icon": "star",
+        "text": "Biotech centers advancing genomic agriculture research.\n\n"
+      },
+      {
+        "icon": "star",
+        "text": "GMO crops boost yield, pest resistance, and efficiency.\n\n"
+      },
+      {
+        "icon": "star",
+        "text": "Using bio-fertilizers for sustainable farming.\n\n"
+      }
+    ]
+  }
+}

@@ -63,6 +63,7 @@
   "blocks": [
     "./navigation002.json",
     "./hero009.json",
+    "./about001.json",
     "../_shared/footer.json"
   ]
 }
