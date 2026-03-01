@@ -61,8 +61,8 @@
   },
   "theme": "iap-default",
   "blocks": [
+    "./navigation002.json",
     "01-hero.json",
-    "../_shared/footer.json",
-    "./navigation002.json"
+    "../_shared/footer.json"
   ]
 }
