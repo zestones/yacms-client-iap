@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero009",
+    "section": "home/hero009"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/hero-image.webp",
+      "alt": "Sample text"
+    },
+    "title": "Titre principal",
+    "subtitle": "Sous titre",
+    "cta": {
+      "primary": {
+        "text": "Sample text",
+        "link": "https://example.com"
+      },
+      "secondary": {
+        "text": "Sample text",
+        "link": "https://example.com"
+      }
+    },
+    "logos": [
+      {
+        "src": "Sample text",
+        "alt": "Sample text"
+      },
+      {
+        "src": "Sample text",
+        "alt": "Sample text"
+      },
+      {
+        "src": "Sample text",
+        "alt": "Sample text"
+      }
+    ],
+    "card": {
+      "badge": "Sample text",
+      "stat": "Sample text",
+      "statDescription": "This is a sample description that demonstrates the content structure.",
+      "image": {
+        "src": "/images/asset-10mpq3.jpg",
+        "alt": "Sample text"
+      }
+    }
+  }
+}
