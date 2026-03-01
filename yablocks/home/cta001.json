@@ -21,29 +21,33 @@
     "ctaSubtitle": "Demandez un audit gratuit de votre usine. Nous évaluons votre potentiel d'amélioration et vous présentons une démonstration en direct.",
     "heroBgImage": {
       "src": "/images/auto.jpg",
-      "alt": ""
+      "alt": "Tableau de bord de performance industrielle IAP"
     },
     "testimonial": {
-      "quote": "dvsvsdvsdvsdvsdvsdv esvsdvv",
+      "quote": "En 3 semaines, on avait notre premier tableau de bord TRS en temps réel. On a identifié 15% de perte cachée qu’on ne soupçonnait même pas.",
       "avatar": {
         "src": "/images/avatar-2.webp",
-        "alt": ""
+        "alt": "Photo de Marc Delville"
       },
-      "authorName": "vsvdsvd",
-      "authorRole": "sdvsdv"
+      "authorName": "Marc Delville",
+      "authorRole": "Directeur de production, Fonderie Alsace"
     },
     "featuredPerson": {
       "avatar": {
         "src": "/images/avatar-3.webp",
-        "alt": ""
+        "alt": "Photo de Sophie Laurent"
       },
-      "name": "dvdsvsdv",
-      "company": "sdvsdv"
+      "name": "Sophie Laurent",
+      "company": "Responsable Amélioration Continue"
     },
     "avatars": [
       {
         "src": "/images/avatar-2.webp",
-        "alt": "test"
+        "alt": "Marc Delville"
+      },
+      {
+        "src": "/images/avatar-3.webp",
+        "alt": "Sophie Laurent"
       }
     ]
   }

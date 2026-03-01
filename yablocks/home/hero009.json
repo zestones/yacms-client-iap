@@ -5,7 +5,7 @@
   },
   "data": {
     "backgroundImage": {
-      "src": "/images/unnamed.jpg",
+      "src": "/images/pexels-pixabay-60575.jpg",
       "alt": "Usine industrielle avec automates et lignes de production"
     },
     "title": "Pilotage de la Performance Industrielle",
@@ -18,6 +18,15 @@
       "secondary": {
         "text": "Planifier une démo",
         "link": "#section-cta"
+      }
+    },
+    "card": {
+      "badge": "100% On-Premise",
+      "stat": "+15%",
+      "statDescription": "d’amélioration du TRS dès les 3 premiers mois, sans modifier vos automates.",
+      "image": {
+        "src": "/images/iap-dashboard.png",
+        "alt": "Tableau de bord TRS IAP"
       }
     }
   }
