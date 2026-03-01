@@ -10,15 +10,15 @@
     "stats": {
       "tags": [
         {
-          "icon": "star",
+          "icon": "bar-chart-2",
           "label": "TRS"
         },
         {
-          "icon": "star",
+          "icon": "alert-triangle",
           "label": "Arrêts"
         },
         {
-          "icon": "star",
+          "icon": "target",
           "label": "Qualité"
         }
       ],
@@ -41,19 +41,19 @@
     "valuesTitle": "Les conséquences concrètes",
     "values": [
       {
-        "icon": "star",
+        "icon": "file-text",
         "text": "TRS calculé à la main : les opérateurs remplissent des fiches papier, le responsable passe des heures sur Excel. Les chiffres sont souvent faux et arrivent trop tard."
       },
       {
-        "icon": "star",
+        "icon": "help-circle",
         "text": "Causes d'arrêt inconnues : quand une machine s'arrête, personne ne sait exactement pourquoi ni combien de temps. Les rapports de poste sont oraux."
       },
       {
-        "icon": "star",
+        "icon": "database",
         "text": "Aucune donnée historique : impossible de comparer ce mois avec le précédent. Les décisions d'investissement reposent sur l'intuition, pas sur les faits."
       },
       {
-        "icon": "star",
+        "icon": "layers",
         "text": "Données cloisonnées : chaque machine est un silo. Différentes marques d'automates, pas de vue d'ensemble."
       }
     ]
