@@ -24,13 +24,27 @@
       "alt": ""
     },
     "testimonial": {
-      "quote": "",
+      "quote": "dvsvsdvsdvsdvsdvsdv esvsdvv",
       "avatar": {
-        "src": "",
+        "src": "/images/avatar-2.webp",
         "alt": ""
       },
-      "authorName": "",
-      "authorRole": ""
-    }
+      "authorName": "vsvdsvd",
+      "authorRole": "sdvsdv"
+    },
+    "featuredPerson": {
+      "avatar": {
+        "src": "/images/avatar-3.webp",
+        "alt": ""
+      },
+      "name": "dvdsvsdv",
+      "company": "sdvsdv"
+    },
+    "avatars": [
+      {
+        "src": "/images/avatar-2.webp",
+        "alt": "test"
+      }
+    ]
   }
 }
