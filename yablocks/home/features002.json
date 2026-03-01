@@ -33,7 +33,11 @@
       },
       {
         "title": "Analyse et dashboards",
-        "description": "TRS, Pareto des arrêts, MTTR, MTBF — tout est calculé et affiché automatiquement. Dashboards web standards inclus + possibilité de dashboards sur-mesure via Grafana."
+        "description": "TRS, Pareto des arrêts, MTTR, MTBF — tout est calculé et affiché automatiquement. Dashboards web standards inclus + possibilité de dashboards sur-mesure via Grafana.",
+        "image": {
+          "src": "/images/iap-dashboard.png",
+          "alt": ""
+        }
       }
     ]
   }
