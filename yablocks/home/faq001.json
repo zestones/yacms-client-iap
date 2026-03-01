@@ -4,20 +4,32 @@
     "section": "home/faq001"
   },
   "data": {
-    "sectionLabel": "05 / FAQ's",
-    "title": "Frequently Asked Questions",
+    "sectionLabel": "04 / FAQ",
+    "title": "Questions fréquentes",
     "items": [
       {
-        "question": "What is AI biotechnology in agriculture and how does it function?",
-        "answer": "Machine learning and data analytics transform agriculture by providing insights into crop health. Explore gene-editing for pest-resistant crops. Discover how these advancements support sustainability.\n\n"
+        "question": "Est-ce que IAP modifie le programme de mes automates ?",
+        "answer": "Non. IAP est 100% lecture seule. La plateforme lit les données de vos automates (S7, Modbus, OPC-UA) mais ne les commande jamais. Pas de pilotage machine, pas d'ordres de fabrication — uniquement de l'analyse de performance. Zéro risque pour votre production."
       },
       {
-        "question": "How quickly can I implement AI biotechnology solutions in agriculture?",
-        "answer": "Implementation timelines vary depending on farm size, existing infrastructure, and solution complexity. Basic AI-driven monitoring tools can be integrated within weeks, while full-scale biotechnology systems involving data modeling and genetic optimization may take several months. Pilot programs often help accelerate adoption and ensure smoother scalability.\n\n"
+        "question": "Combien de temps faut-il pour installer IAP ?",
+        "answer": "L'installation complète prend généralement moins d'une semaine : un audit sur site (½ journée), l'installation et la configuration de la passerelle (2 à 5 jours), une formation des utilisateurs (½ journée), puis un suivi de 30 jours. Vous avez vos premiers indicateurs TRS dès la première semaine."
       },
       {
-        "question": "What sets AI biotechnology in agriculture apart from traditional agricultural technologies?",
-        "answer": "Traditional agricultural technologies focus on mechanization and physical efficiency. In contrast, AI biotechnology integrates intelligent data systems and biological innovation — enabling predictive insights, adaptive responses to environmental conditions, and genetic improvements that enhance resilience and yield. It’s not just automation; it’s adaptive intelligence.\n\n"
+        "question": "Mes données restent-elles chez moi ?",
+        "answer": "Oui. IAP est 100% on-premise. Toutes vos données restent sur votre réseau local. Aucun transfert vers le cloud, aucune dépendance externe. La base de données PostgreSQL/TimescaleDB est standard — vous pouvez interroger vos données avec n'importe quel outil BI, script Python ou connecteur ERP."
+      },
+      {
+        "question": "Quel est le retour sur investissement ?",
+        "answer": "Les résultats sont mesurables dès les 3 premiers mois : 5 à 15% d'amélioration du TRS, élimination de la saisie manuelle (1-2h/poste/jour économisées), et une réduction des arrêts non planifiés. Pour une usine de 20 machines, le ROI typique est de 4× à 9× dès la première année."
+      },
+      {
+        "question": "Quels types de machines sont compatibles ?",
+        "answer": "IAP se connecte à tous les automates disposant d'une interface Ethernet industrielle : Siemens S7 (300, 1200, 1500), Modbus TCP, OPC-UA. Si vos machines ont des automates programmables, IAP peut s'y connecter. L'offre est adaptée pour les usines de 5 à 200 machines."
+      },
+      {
+        "question": "Quelle est la différence avec les solutions SaaS comme MachineMetrics ou Factbird ?",
+        "answer": "IAP est 5 à 10× moins cher que les solutions SaaS du marché, et surtout 100% on-premise. Pas de données envoyées dans le cloud, pas de dépendance à un service externe. Les alternatives SaaS coûtent ~200-300 €/machine/mois. IAP propose un forfait d'installation (3K-15K €) + un abonnement mensuel (500-2 000 €/mois) pour l'ensemble de votre parc."
       }
     ]
   }

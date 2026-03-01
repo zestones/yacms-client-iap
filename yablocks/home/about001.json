@@ -4,53 +4,57 @@
     "section": "home/about001"
   },
   "data": {
-    "sectionLabel": "01 / About Us",
-    "title": "Powering the Future of Sustainable Agriculture",
-    "subtitle": "Helping farmers grow more with less -- through biotech and precision intellegence\n\n",
+    "sectionLabel": "01 / Le Problème",
+    "title": "Ce que vivent les usines aujourd'hui",
+    "subtitle": "« On sait qu'on perd de la production, mais on ne sait pas combien, ni pourquoi. » — Directeur de production, PME industrielle",
     "stats": {
       "tags": [
         {
           "icon": "star",
-          "label": "Agriculture"
+          "label": "TRS"
         },
         {
           "icon": "star",
-          "label": "Technology"
+          "label": "Arrêts"
         },
         {
           "icon": "star",
-          "label": "Innovative"
+          "label": "Qualité"
         }
       ],
       "items": [
         {
-          "value": "50+",
-          "label": "Researches"
+          "value": "15–25%",
+          "label": "Temps de production perdu en arrêts"
         },
         {
-          "value": "50K",
-          "label": "Hectares"
+          "value": "3–8%",
+          "label": "Rebuts non analysés"
         },
         {
-          "value": "20K",
-          "label": "Farmers"
+          "value": "1–2h",
+          "label": "Saisie manuelle par poste/jour"
         }
       ],
-      "quote": "Verdentix offers sustainable solutions via biotechnology. We empower farmers to boost productivity and impact.\n\n"
+      "quote": "Les outils existants ne répondent pas au besoin : les solutions SaaS coûtent 5 à 10× trop cher, les MES complets sont surdimensionnés, et les solutions cloud sont refusées par les services IT."
     },
-    "valuesTitle": "Our Values",
+    "valuesTitle": "Les conséquences concrètes",
     "values": [
       {
         "icon": "star",
-        "text": "Biotech centers advancing genomic agriculture research.\n\n"
+        "text": "TRS calculé à la main : les opérateurs remplissent des fiches papier, le responsable passe des heures sur Excel. Les chiffres sont souvent faux et arrivent trop tard."
       },
       {
         "icon": "star",
-        "text": "GMO crops boost yield, pest resistance, and efficiency.\n\n"
+        "text": "Causes d'arrêt inconnues : quand une machine s'arrête, personne ne sait exactement pourquoi ni combien de temps. Les rapports de poste sont oraux."
       },
       {
         "icon": "star",
-        "text": "Using bio-fertilizers for sustainable farming.\n\n"
+        "text": "Aucune donnée historique : impossible de comparer ce mois avec le précédent. Les décisions d'investissement reposent sur l'intuition, pas sur les faits."
+      },
+      {
+        "icon": "star",
+        "text": "Données cloisonnées : chaque machine est un silo. Différentes marques d'automates, pas de vue d'ensemble."
       }
     ]
   }

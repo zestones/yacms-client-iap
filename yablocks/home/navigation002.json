@@ -6,26 +6,30 @@
   "data": {
     "logo": {
       "image": "/logos/logo.png",
-      "text": "Sample text",
+      "text": "IAP",
       "href": "/"
     },
     "links": [
       {
-        "label": "Sample Label",
-        "href": "#section-hero"
+        "label": "Le Problème",
+        "href": "#section-about"
       },
       {
-        "label": "Sample Label",
-        "href": "https://example.com"
+        "label": "La Solution",
+        "href": "#section-features001"
       },
       {
-        "label": "Sample Label",
-        "href": "https://example.com"
+        "label": "Comment ça marche",
+        "href": "#section-features002"
+      },
+      {
+        "label": "FAQ",
+        "href": "#section-faq"
       }
     ],
     "cta": {
-      "text": "Sample text",
-      "href": "https://example.com"
+      "text": "Planifier une démo",
+      "href": "#section-cta"
     }
   }
 }

@@ -4,38 +4,20 @@
     "section": "home/features001"
   },
   "data": {
-    "sectionLabel": "02 / Our Innovations",
-    "title": "Tech Innovations in Agriculture",
+    "sectionLabel": "02 / La Solution",
+    "title": "Performance industrielle automatisée, installée chez vous",
     "items": [
       {
-        "image": {
-          "src": "/images/solution-2.webp",
-          "alt": ""
-        },
-        "title": "AI-Powered Crop Monitoring",
-        "description": "Insights into crop health and threats using machine learning and data analytics.\n\n",
-        "ctaText": "Read more details",
-        "ctaLink": "https://example.com"
+        "title": "Acquisition de données automatique",
+        "description": "Connexion directe aux automates (S7, Modbus, OPC-UA). Lecture des registres sans modification du programme automate. Zéro saisie manuelle, zéro perturbation."
       },
       {
-        "image": {
-          "src": "/images/solution-3.webp",
-          "alt": "Sample text"
-        },
-        "title": "Genomic Editing (CRISPR)",
-        "description": "Gene-editing tools for high-yield, pest-resistant, climate-adaptive crops.\n\n",
-        "ctaText": "Read more details",
-        "ctaLink": "https://example.com"
+        "title": "Calcul du TRS en temps réel",
+        "description": "Disponibilité × Performance × Qualité, calculé automatiquement selon ISO 22400. Par machine, par ligne, par poste. Résultats fiables et instantanés."
       },
       {
-        "image": {
-          "src": "/images/solution-1.webp",
-          "alt": "Sample text"
-        },
-        "title": "Blockchain for Traceability",
-        "description": "Traceability of crops and food products, from farm to table, with blockchain transparency.\n\n",
-        "ctaText": "Read more details",
-        "ctaLink": "https://example.com"
+        "title": "Analyse des arrêts et suivi qualité",
+        "description": "Chaque arrêt est identifié, classé et quantifié. Pareto par cause, MTTR, MTBF. Taux de rebut, distribution par type de défaut, corrélation avec les paramètres process."
       }
     ]
   }

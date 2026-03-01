@@ -6,41 +6,18 @@
   "data": {
     "backgroundImage": {
       "src": "/images/hero-image.webp",
-      "alt": "Sample text"
+      "alt": "Usine industrielle avec automates et lignes de production"
     },
-    "title": "Revolutionizing Agriculture with Biotechnology",
-    "subtitle": "Explore how Verdentix is transforming farming with cutting-edge biotech solutions that increase crop yields, reduce environmental impact, and ensure sustainable agriculture.\n\n",
+    "title": "Pilotage de la Performance Industrielle",
+    "subtitle": "Collecte automatique des données machines, calcul du TRS en temps réel, analyse des arrêts et de la qualité — sans saisie manuelle, sans cloud, sans perturbation de votre production.",
     "cta": {
       "primary": {
-        "text": "Explore Our Solutions",
-        "link": "https://example.com"
+        "text": "Découvrir la solution",
+        "link": "#section-features001"
       },
       "secondary": {
-        "text": "Learn More",
-        "link": "https://example.com"
-      }
-    },
-    "logos": [
-      {
-        "src": "Sample text",
-        "alt": "Sample text"
-      },
-      {
-        "src": "Sample text",
-        "alt": "Sample text"
-      },
-      {
-        "src": "Sample text",
-        "alt": "Sample text"
-      }
-    ],
-    "card": {
-      "badge": "AI Solution",
-      "stat": "500+",
-      "statDescription": "Biotechnology has transformed agriculture with higher yields",
-      "image": {
-        "src": "/images/asset-10mpq3.jpg",
-        "alt": "Sample text"
+        "text": "Planifier une démo",
+        "link": "#section-cta"
       }
     }
   }

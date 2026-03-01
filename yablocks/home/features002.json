@@ -4,38 +4,24 @@
     "section": "home/features002"
   },
   "data": {
-    "sectionLabel": "03 / Our Solutions",
-    "title": "What’s our solutions?",
+    "sectionLabel": "03 / Comment ça marche",
+    "title": "Architecture technique en 4 étapes",
     "items": [
       {
-        "title": "AI Water Management Solutions",
-        "description": "Smart irrigation systems help save water while maximizing crop yield.\n\n",
-        "stat": "200+",
-        "statLabel": "Sample Label",
-        "image": {
-          "src": "/images/solution-5.webp",
-          "alt": "Sample text"
-        }
+        "title": "Collecte des données",
+        "description": "Connexion directe aux automates via Ethernet industriel (S7, Modbus, OPC-UA). Aucune modification du programme automate. Lecture seule, zéro risque pour votre production."
       },
       {
-        "title": "AI-Enhanced Soil",
-        "description": "AI-Enhanced Soil uses AI to optimize soil health. It help farmers improve crop yields and sustainability.",
-        "stat": "100+",
-        "statLabel": "Sample Label",
-        "image": {
-          "src": "/images/solution-1.webp",
-          "alt": "Sample text"
-        }
+        "title": "Normalisation",
+        "description": "Les codes constructeurs sont traduits en valeurs standardisées via les tables de mapping. Chaque signal est structuré selon la hiérarchie ISA-95 : Entreprise → Site → Zone → Ligne → Cellule."
       },
       {
-        "title": "AI in Waste Management",
-        "description": "AI optimizes waste management routes and predicts patterns, enhancing efficiency and sustainability.\n\n",
-        "stat": "20+",
-        "statLabel": "Biotech centers boost genomic agriculture research.\n",
-        "image": {
-          "src": "/images/solution-4.webp",
-          "alt": "Sample text"
-        }
+        "title": "Stockage intelligent",
+        "description": "Architecture événementielle optimisée : 8h de production = 2 enregistrements, pas 28 800. Base TimescaleDB standard — n'importe quel outil BI ou script peut interroger vos données en SQL."
+      },
+      {
+        "title": "Analyse et dashboards",
+        "description": "TRS, Pareto des arrêts, MTTR, MTBF — tout est calculé et affiché automatiquement. Dashboards web standards inclus + possibilité de dashboards sur-mesure via Grafana."
       }
     ]
   }
