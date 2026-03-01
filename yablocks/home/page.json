@@ -65,6 +65,7 @@
     "./hero009.json",
     "./about001.json",
     "./features001.json",
+    "./features002.json",
     "../_shared/footer.json"
   ]
 }

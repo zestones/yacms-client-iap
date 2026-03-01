@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features002",
+    "section": "home/features002"
+  },
+  "data": {
+    "sectionLabel": "03 / Our Solutions",
+    "title": "What’s our solutions?",
+    "items": [
+      {
+        "title": "AI Water Management Solutions",
+        "description": "Smart irrigation systems help save water while maximizing crop yield.\n\n",
+        "stat": "200+",
+        "statLabel": "Sample Label",
+        "image": {
+          "src": "/images/solution-5.webp",
+          "alt": "Sample text"
+        }
+      },
+      {
+        "title": "AI-Enhanced Soil",
+        "description": "AI-Enhanced Soil uses AI to optimize soil health. It help farmers improve crop yields and sustainability.",
+        "stat": "100+",
+        "statLabel": "Sample Label",
+        "image": {
+          "src": "/images/solution-1.webp",
+          "alt": "Sample text"
+        }
+      },
+      {
+        "title": "AI in Waste Management",
+        "description": "AI optimizes waste management routes and predicts patterns, enhancing efficiency and sustainability.\n\n",
+        "stat": "20+",
+        "statLabel": "Biotech centers boost genomic agriculture research.\n",
+        "image": {
+          "src": "/images/solution-4.webp",
+          "alt": "Sample text"
+        }
+      }
+    ]
+  }
+}
