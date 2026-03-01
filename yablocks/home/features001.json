@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features001",
+    "section": "home/features001"
+  },
+  "data": {
+    "sectionLabel": "02 / Our Innovations",
+    "title": "Tech Innovations in Agriculture",
+    "items": [
+      {
+        "image": {
+          "src": "/images/solution-2.webp",
+          "alt": ""
+        },
+        "title": "AI-Powered Crop Monitoring",
+        "description": "Insights into crop health and threats using machine learning and data analytics.\n\n",
+        "ctaText": "Read more details",
+        "ctaLink": "https://example.com"
+      },
+      {
+        "image": {
+          "src": "/images/solution-3.webp",
+          "alt": "Sample text"
+        },
+        "title": "Genomic Editing (CRISPR)",
+        "description": "Gene-editing tools for high-yield, pest-resistant, climate-adaptive crops.\n\n",
+        "ctaText": "Read more details",
+        "ctaLink": "https://example.com"
+      },
+      {
+        "image": {
+          "src": "/images/solution-1.webp",
+          "alt": "Sample text"
+        },
+        "title": "Blockchain for Traceability",
+        "description": "Traceability of crops and food products, from farm to table, with blockchain transparency.\n\n",
+        "ctaText": "Read more details",
+        "ctaLink": "https://example.com"
+      }
+    ]
+  }
+}
