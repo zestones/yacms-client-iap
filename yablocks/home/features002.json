@@ -17,7 +17,11 @@
       },
       {
         "title": "Normalisation",
-        "description": "Les codes constructeurs sont traduits en valeurs standardisées via les tables de mapping. Chaque signal est structuré selon la hiérarchie ISA-95 : Entreprise → Site → Zone → Ligne → Cellule."
+        "description": "Les codes constructeurs sont traduits en valeurs standardisées via les tables de mapping. Chaque signal est structuré selon la hiérarchie ISA-95 : Entreprise → Site → Zone → Ligne → Cellule.",
+        "image": {
+          "src": "/images/299567eb-afa3-49f8-a382-c0b7deeb1043.png",
+          "alt": ""
+        }
       },
       {
         "title": "Stockage intelligent",
