@@ -5,99 +5,74 @@
   },
   "data": {
     "brand": {
-      "name": "YourBrand",
-      "logo": "/images/unnamed.png",
-      "tagline": "Professional services and innovative solutions. Trusted by businesses worldwide for over a decade.",
-      "alt": "YourBrand Logo"
+      "alt": "IAP Software",
+      "logo": "/logos/logo.png",
+      "tagline": "Plateforme de pilotage de la performance industrielle. Collecte automatique, TRS en temps réel, analyse des arrêts — 100% on-premise."
     },
     "contact": {
-      "address": "123 Main Street\nYour City, ST 12345",
-      "phone": "(555) 123-4567",
-      "email": "contact@yourbusiness.com",
-      "hours": "Mon-Fri: 9am-5pm\nSat: 10am-2pm"
+      "email": "contact@iap.software",
+      "hours": "Lun-Ven : 9h-18h"
     },
     "linkGroups": [
       {
-        "title": "Services",
+        "title": "Solution",
         "links": [
           {
-            "text": "Consulting",
-            "href": "/service/consulting"
+            "text": "Fonctionnalités",
+            "href": "#section-features001"
           },
           {
-            "text": "Development",
-            "href": "/service/development"
-          },
-          {
-            "text": "Design",
-            "href": "/service/design"
-          },
-          {
-            "text": "Support",
-            "href": "/service/support"
-          }
-        ]
-      },
-      {
-        "title": "Company",
-        "links": [
-          {
-            "text": "About Us",
-            "href": "/about"
-          },
-          {
-            "text": "Our Work",
-            "href": "/portfolio"
-          },
-          {
-            "text": "Testimonials",
-            "href": "/testimonials"
-          }
-        ]
-      },
-      {
-        "title": "Resources",
-        "links": [
-          {
-            "text": "Blog",
-            "href": "/blog"
+            "text": "Comment ça marche",
+            "href": "#section-features002"
           },
           {
             "text": "FAQ",
-            "href": "/faq"
+            "href": "#section-faq"
+          }
+        ]
+      },
+      {
+        "title": "Entreprise",
+        "links": [
+          {
+            "text": "À propos",
+            "href": "#section-about"
           },
           {
             "text": "Contact",
-            "href": "/contact"
+            "href": "#section-cta"
+          },
+          {
+            "text": "Démonstration",
+            "href": "https://demo.iap.software"
+          }
+        ]
+      },
+      {
+        "title": "Ressources",
+        "links": [
+          {
+            "text": "Documentation",
+            "href": "https://docs.iap.software"
+          },
+          {
+            "text": "Blog",
+            "href": "/blog"
           }
         ]
       }
     ],
     "socialLinks": [],
-    "certifications": [
-      {
-        "src": "/logos/certification-1.png",
-        "alt": "Certification 1"
-      },
-      {
-        "src": "/logos/certification-2.png",
-        "alt": "Certification 2"
-      }
-    ],
     "legal": {
-      "copyright": "All rights reserved.",
+      "copyright": "© 2026 IAP Software · Tous droits réservés.",
       "links": [
         {
-          "text": "Legal Notice",
+          "text": "Mentions légales",
           "href": "/legal"
         },
         {
-          "text": "Privacy Policy",
+          "text": "Politique de confidentialité",
           "href": "/privacy"
-        },
-        {
-          "text": "Terms of Service",
-          "href": "/terms"
         }
       ]
     }

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features002",
+    "section": "home/features002"
+  },
+  "data": {
+    "sectionLabel": "03 / Comment ça marche",
+    "title": "Architecture technique en 4 étapes",
+    "items": [
+      {
+        "title": "Collecte des données",
+        "description": "Connexion directe aux automates via Ethernet industriel (S7, Modbus, OPC-UA). Aucune modification du programme automate. Lecture seule, zéro risque pour votre production.",
+        "image": {
+          "src": "/images/1 mars 2026, 21_55_21 (1).png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Normalisation",
+        "description": "Les codes constructeurs sont traduits en valeurs standardisées via les tables de mapping. Chaque signal est structuré selon la hiérarchie ISA-95 : Entreprise → Site → Zone → Ligne → Cellule.",
+        "image": {
+          "src": "/images/299567eb-afa3-49f8-a382-c0b7deeb1043.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Stockage intelligent",
+        "description": "Architecture événementielle optimisée : 8h de production = 2 enregistrements, pas 28 800. Base TimescaleDB standard — n'importe quel outil BI ou script peut interroger vos données en SQL.",
+        "image": {
+          "src": "/images/263b3984-ad33-4047-93ea-359b9f5d2a4e.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Analyse et dashboards",
+        "description": "TRS, Pareto des arrêts, MTTR, MTBF — tout est calculé et affiché automatiquement. Dashboards web standards inclus + possibilité de dashboards sur-mesure via Grafana.",
+        "image": {
+          "src": "/images/iap-dashboard.png",
+          "alt": ""
+        }
+      }
+    ]
+  }
+}

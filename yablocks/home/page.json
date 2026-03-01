@@ -1,41 +1,45 @@
 {
   "meta": {
-    "title": "Your Business Name - Professional Services & Solutions",
-    "description": "Discover our professional services and solutions. Expert team providing quality results. Contact us today for a free consultation.",
+    "title": "IAP — Plateforme de Pilotage de la Performance Industrielle",
+    "description": "IAP connecte vos automates, calcule le TRS en temps réel, analyse les arrêts et la qualité. 100% on-premise, sans saisie manuelle, sans cloud. Résultats dès les 3 premiers mois.",
     "keywords": [
-      "professional services",
-      "business solutions",
-      "expert consultation",
-      "quality services",
-      "trusted provider",
-      "local business"
+      "TRS",
+      "OEE",
+      "performance industrielle",
+      "pilotage production",
+      "automates industriels",
+      "on-premise",
+      "ISA-95",
+      "analyse arrêts",
+      "suivi qualité",
+      "industrie 4.0"
     ],
-    "author": "Your Business Name",
-    "canonical": "https://yourbusiness.com/",
-    "locale": "en_US",
+    "author": "IAP Software",
+    "canonical": "https://iap.software/",
+    "locale": "fr_FR",
     "robots": "index, follow",
     "og": {
       "type": "website",
       "image": "/images/og-home.jpg",
-      "imageAlt": "Your Business Name - Professional Services"
+      "imageAlt": "IAP — Industrial Analytics Pipeline"
     },
     "structuredData": {
       "type": "LocalBusiness",
-      "name": "Your Business Name",
+      "name": "IAP Software",
       "logo": "/logos/logo.png",
       "address": {
-        "street": "123 Main Street",
-        "city": "Your City",
-        "postalCode": "12345",
-        "region": "Your State",
-        "country": "US"
+        "street": "",
+        "city": "",
+        "postalCode": "",
+        "region": "",
+        "country": "FR"
       },
       "geo": {
-        "latitude": 40.7128,
-        "longitude": -74.006
+        "latitude": 48.8566,
+        "longitude": 2.3522
       },
-      "phone": "+15551234567",
-      "email": "contact@yourbusiness.com",
+      "phone": "",
+      "email": "contact@iap.software",
       "priceRange": "$$",
       "openingHours": [
         {
@@ -47,22 +51,27 @@
             "Friday"
           ],
           "opens": "09:00",
-          "closes": "17:00"
+          "closes": "18:00"
         }
       ],
       "serviceArea": {
-        "radius": 50000
+        "radius": 100000
       },
       "rating": {
-        "value": 4.8,
-        "count": 150
+        "value": 5.0,
+        "count": 0
       }
     }
   },
-  "theme": "template-default",
+  "theme": "iap-default",
   "blocks": [
-    "../_shared/navigation.json",
-    "01-hero.json",
+    "./navigation002.json",
+    "./hero009.json",
+    "./about001.json",
+    "./features001.json",
+    "./features002.json",
+    "./faq001.json",
+    "./cta001.json",
     "../_shared/footer.json"
   ]
 }

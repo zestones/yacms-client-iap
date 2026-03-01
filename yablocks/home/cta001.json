@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta001",
+    "section": "home/cta001"
+  },
+  "data": {
+    "sectionLabel": "05 / Contact",
+    "stat": {
+      "value": "4×–9×",
+      "label": "ROI dès la 1ère année"
+    },
+    "ctaTitle": "Passez à la performance mesurée",
+    "primaryCta": {
+      "text": "Planifier une démonstration",
+      "link": "https://demo.iap.software"
+    },
+    "secondaryCta": {
+      "text": "Nous contacter",
+      "link": "mailto:contact@iap.software"
+    },
+    "ctaSubtitle": "Demandez un audit gratuit de votre usine. Nous évaluons votre potentiel d'amélioration et vous présentons une démonstration en direct.",
+    "heroBgImage": {
+      "src": "/images/auto.jpg",
+      "alt": "Tableau de bord de performance industrielle IAP"
+    },
+    "testimonial": {
+      "quote": "En 3 semaines, on avait notre premier tableau de bord TRS en temps réel. On a identifié 15% de perte cachée qu’on ne soupçonnait même pas.",
+      "avatar": {
+        "src": "/images/avatar-2.webp",
+        "alt": "Photo de Marc Delville"
+      },
+      "authorName": "Marc Delville",
+      "authorRole": "Directeur de production, Fonderie Alsace"
+    },
+    "featuredPerson": {
+      "avatar": {
+        "src": "/images/avatar-3.webp",
+        "alt": "Photo de Sophie Laurent"
+      },
+      "name": "Sophie Laurent",
+      "company": "Responsable Amélioration Continue"
+    },
+    "avatars": [
+      {
+        "src": "/images/avatar-2.webp",
+        "alt": "Marc Delville"
+      },
+      {
+        "src": "/images/avatar-3.webp",
+        "alt": "Sophie Laurent"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "component": "blocks/layout/navigation/Navigation002",
+    "section": "home/navigation002"
+  },
+  "data": {
+    "logo": {
+      "image": "/logos/logo.png",
+      "text": "IAP",
+      "href": "/"
+    },
+    "links": [
+      {
+        "label": "Le Problème",
+        "href": "#section-about"
+      },
+      {
+        "label": "La Solution",
+        "href": "#section-features001"
+      },
+      {
+        "label": "Comment ça marche",
+        "href": "#section-features002"
+      },
+      {
+        "label": "FAQ",
+        "href": "#section-faq"
+      }
+    ],
+    "cta": {
+      "text": "Planifier une démo",
+      "href": "#section-cta"
+    }
+  }
+}

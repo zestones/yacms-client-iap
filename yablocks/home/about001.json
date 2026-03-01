@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "component": "blocks/content/about/About001",
+    "section": "home/about001"
+  },
+  "data": {
+    "sectionLabel": "01 / Le Problème",
+    "title": "Ce que vivent les usines aujourd'hui",
+    "subtitle": "« On sait qu'on perd de la production, mais on ne sait pas combien, ni pourquoi. » — Directeur de production, PME industrielle",
+    "stats": {
+      "tags": [
+        {
+          "icon": "bar-chart-2",
+          "label": "TRS"
+        },
+        {
+          "icon": "alert-triangle",
+          "label": "Arrêts"
+        },
+        {
+          "icon": "target",
+          "label": "Qualité"
+        }
+      ],
+      "items": [
+        {
+          "value": "15–25%",
+          "label": "Temps de production perdu en arrêts"
+        },
+        {
+          "value": "3–8%",
+          "label": "Rebuts non analysés"
+        },
+        {
+          "value": "1–2h",
+          "label": "Saisie manuelle par poste/jour"
+        }
+      ],
+      "quote": "Les outils existants ne répondent pas au besoin : les solutions SaaS coûtent 5 à 10× trop cher, les MES complets sont surdimensionnés, et les solutions cloud sont refusées par les services IT."
+    },
+    "valuesTitle": "Les conséquences concrètes",
+    "values": [
+      {
+        "icon": "file-text",
+        "text": "TRS saisi à la main sur Excel. Les chiffres arrivent trop tard et sont souvent erronés."
+      },
+      {
+        "icon": "help-circle",
+        "text": "Causes d'arrêts inconnues. Les rapports de poste sont oraux, rien n'est tracé."
+      },
+      {
+        "icon": "database",
+        "text": "Pas de données historiques. Les décisions reposent sur l'intuition, pas sur les faits."
+      },
+      {
+        "icon": "layers",
+        "text": "Machines en silo. Chaque automate parle sa propre langue, sans vue globale."
+      }
+    ]
+  }
+}
