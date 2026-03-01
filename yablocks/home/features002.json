@@ -9,7 +9,11 @@
     "items": [
       {
         "title": "Collecte des données",
-        "description": "Connexion directe aux automates via Ethernet industriel (S7, Modbus, OPC-UA). Aucune modification du programme automate. Lecture seule, zéro risque pour votre production."
+        "description": "Connexion directe aux automates via Ethernet industriel (S7, Modbus, OPC-UA). Aucune modification du programme automate. Lecture seule, zéro risque pour votre production.",
+        "image": {
+          "src": "/images/1 mars 2026, 21_55_21 (1).png",
+          "alt": ""
+        }
       },
       {
         "title": "Normalisation",
