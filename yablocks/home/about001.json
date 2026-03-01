@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/about/About001",
+    "component": "blocks/content/about/About001",
     "section": "home/about001"
   },
   "data": {
