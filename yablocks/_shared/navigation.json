@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/navigation/PrimaryNavigation",
+    "component": "blocks/layout/navigation/Navigation001",
     "section": "home/navigation"
   },
   "data": {
