@@ -9,15 +9,27 @@
     "items": [
       {
         "title": "Acquisition de données automatique",
-        "description": "Connexion directe aux automates (S7, Modbus, OPC-UA). Lecture des registres sans modification du programme automate. Zéro saisie manuelle, zéro perturbation."
+        "description": "Connexion directe aux automates (S7, Modbus, OPC-UA). Lecture des registres sans modification du programme automate. Zéro saisie manuelle, zéro perturbation.",
+        "image": {
+          "src": "/images/connect_icon_143211.webp",
+          "alt": ""
+        }
       },
       {
         "title": "Calcul du TRS en temps réel",
-        "description": "Disponibilité × Performance × Qualité, calculé automatiquement selon ISO 22400. Par machine, par ligne, par poste. Résultats fiables et instantanés."
+        "description": "Disponibilité × Performance × Qualité, calculé automatiquement selon ISO 22400. Par machine, par ligne, par poste. Résultats fiables et instantanés.",
+        "image": {
+          "src": "/images/11-2022_EQC_NL_Jahresrueckblick_OEE.jpg",
+          "alt": ""
+        }
       },
       {
         "title": "Analyse des arrêts et suivi qualité",
-        "description": "Chaque arrêt est identifié, classé et quantifié. Pareto par cause, MTTR, MTBF. Taux de rebut, distribution par type de défaut, corrélation avec les paramètres process."
+        "description": "Chaque arrêt est identifié, classé et quantifié. Pareto par cause, MTTR, MTBF. Taux de rebut, distribution par type de défaut, corrélation avec les paramètres process.",
+        "image": {
+          "src": "/images/184-1849058_data-analysis-icon-transparent-hd-png-download.png",
+          "alt": ""
+        }
       }
     ]
   }

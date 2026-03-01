@@ -18,6 +18,19 @@
       "text": "Nous contacter",
       "link": "mailto:contact@iap.software"
     },
-    "ctaSubtitle": "Demandez un audit gratuit de votre usine. Nous évaluons votre potentiel d'amélioration et vous présentons une démonstration en direct."
+    "ctaSubtitle": "Demandez un audit gratuit de votre usine. Nous évaluons votre potentiel d'amélioration et vous présentons une démonstration en direct.",
+    "heroBgImage": {
+      "src": "/images/auto.jpg",
+      "alt": ""
+    },
+    "testimonial": {
+      "quote": "",
+      "avatar": {
+        "src": "",
+        "alt": ""
+      },
+      "authorName": "",
+      "authorRole": ""
+    }
   }
 }
