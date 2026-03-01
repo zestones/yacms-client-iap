@@ -59,7 +59,7 @@
       }
     }
   },
-  "theme": "template-default",
+  "theme": "iap-default",
   "blocks": [
     "../_shared/navigation.json",
     "01-hero.json",
