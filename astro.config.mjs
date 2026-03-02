@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import sitemap from '@astrojs/sitemap';
+import { ViteImageOptimizer } from 'vite-plugin-image-optimizer';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
