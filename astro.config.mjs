@@ -26,6 +26,7 @@ export default defineConfig({
         resolve: {
             alias: {
                 '@': path.resolve(__dirname, './src'),
+                'zod-to-json-schema': path.resolve(__dirname, './src/stubs/zod-to-json-schema.ts'),
             },
         },
         css: {
