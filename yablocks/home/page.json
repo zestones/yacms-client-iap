@@ -58,7 +58,7 @@
         "radius": 100000
       },
       "rating": {
-        "value": 5.0,
+        "value": 5,
         "count": 0
       }
     }
@@ -72,6 +72,6 @@
     "./features002.json",
     "./faq001.json",
     "./cta001.json",
-    "../_shared/footer.json"
+    "@shared/footer.json"
   ]
 }

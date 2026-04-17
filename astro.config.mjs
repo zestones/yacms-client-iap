@@ -12,7 +12,8 @@ export default defineConfig({
     site: 'https://iap.software',
     integrations: [react(), sitemap()],
     build: {
-        inlineStylesheets: 'always'
+        inlineStylesheets: 'always',
+        compressHTML: true
     },
     vite: {
         plugins: [
@@ -40,6 +41,9 @@ export default defineConfig({
             watch: {
                 ignored: ['**/yablocks/**']
             }
-        }
+        },
+        ssr: {
+            noExternal: ['lucide-react'],
+        },
     },
 });
